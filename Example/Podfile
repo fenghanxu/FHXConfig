@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXConfig_Example' do
+  pod 'FHXConfig', :path => '../'
+
+  target 'FHXConfig_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - FHXConfig (0.1.0)
+
+DEPENDENCIES:
+  - FHXConfig (from `../`)
+
+EXTERNAL SOURCES:
+  FHXConfig:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXConfig: d7eb4fa8563e1f9bf971da6e908f289e231551a0
+
+PODFILE CHECKSUM: 681cb2309ffa038f4035a1af4fb172f77d75f80f
+
+COCOAPODS: 1.4.0
